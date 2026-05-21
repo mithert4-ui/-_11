@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 홈 화면 메뉴 -->
+    <item
+        android:id="@+id/fragment_home"
+        android:title="홈"
+        android:icon="@drawable/home"/>
+
+    <!-- 설정 화면 메뉴 -->
+    <item
+        android:id="@+id/fragment_settings"
+        android:title="설정"
+        android:icon="@drawable/settings"/>
+
+    <!-- 목록 화면 메뉴 -->
+    <item
+        android:id="@+id/fragment_list"
+        android:title="목록"
+        android:icon="@drawable/list"/>
+</menu>
